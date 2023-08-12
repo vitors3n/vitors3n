@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=svavitor&color=green)
+
 <!--
 
 Trabalhando em [conquista-amigos](https://conquista-amigos-production.up.railway.app/) e [jogo-flag](https://svavitor.github.io/jogo-flag/)
