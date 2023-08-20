@@ -2,11 +2,11 @@
 
 #### Projetos
 - JavaScript
-    - [jogo-flag](https://github.com/svavitor/jogo-flag) (P5.js)
-    - [conquista-amigos](https://github.com/svavitor/conquista-amigos) (Express.js + Pug)
+    - [jogo-flag](https://github.com/svavitor/jogo-flag) (P5.js) - [🟢 Online](https://svavitor.github.io/jogo-flag/)
+    - [conquista-amigos](https://github.com/svavitor/conquista-amigos) (Express.js + Pug) - [🟢 Online](https://conquista-amigos-production.up.railway.app/)
 - Python
-    - [app-sup](https://github.com/svavitor/app-sup) (Django Rest + Next.js)
-    - [questoes-estudo](https://github.com/svavitor/questoes-estudo) (Django Rest + Next.js)
+    - [app-sup](https://github.com/svavitor/app-sup) (Django Rest + Next.js) - 🟠 Em planejamento
+    - [questoes-estudo](https://github.com/svavitor/questoes-estudo) (Django Rest + Next.js) - 🟠 Em planejamento
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
