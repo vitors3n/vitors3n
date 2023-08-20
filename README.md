@@ -6,6 +6,7 @@
     - [conquista-amigos](https://github.com/svavitor/conquista-amigos) (Express.js + Pug)
 - Python
     - [app-sup](https://github.com/svavitor/app-sup) (Django Rest + Nextjs)
+    - [questoes-estudo](https://github.com/svavitor/questoes-estudo) (Django Rest + Nextjs)
 <!--
 
 Trabalhando em [conquista-amigos](https://conquista-amigos-production.up.railway.app/) e [jogo-flag](https://svavitor.github.io/jogo-flag/)
