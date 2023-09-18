@@ -10,9 +10,6 @@
 | [escola-controle](https://github.com/svavitor/escola-controle)    | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)   | 🟠 Em planejamento   |
 | [estudo-exemplos](https://github.com/svavitor/estudo-exemplos)    | Várias | 🔵 Repositório de anotações   |
 
-<!-- | [app-sup](https://github.com/svavitor/app-sup)     | ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)  | 🟠 Em planejamento   | -->
-#### Tecnologias
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svavitor&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
