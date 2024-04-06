@@ -5,4 +5,4 @@
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svavitor&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svavitor&layout=donut-vertical&theme=tokyonight&hide_border=true)
