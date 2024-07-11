@@ -5,4 +5,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,docker,go,linux,bash,&perline=15)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svavitor&layout=donut-vertical&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitors3n&layout=donut-vertical&theme=tokyonight&hide_border=true)
