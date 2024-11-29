@@ -3,6 +3,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,django,go,html,css,js,docker,linux,bash,postgres,mysql&perline=15)](https://skillicons.dev)
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,docker,linux,bash,&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,rust,docker,linux,bash,&perline=15)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitors3n&layout=donut-vertical&theme=tokyonight&hide_border=true)
