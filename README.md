@@ -6,3 +6,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,django,docker,linux,bash,&perline=15)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitors3n&layout=donut-vertical&theme=tokyonight&hide_border=true)
+
+
+"We are what we repeatedly do. Excellence, then, is not an act, but a habit."
