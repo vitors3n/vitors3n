@@ -8,4 +8,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitors3n&layout=donut-vertical&theme=tokyonight&hide_border=true)
 
 
-"We are what we repeatedly do. Excellence, then, is not an act, but a habit."
